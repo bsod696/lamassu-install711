@@ -1,1 +1,1 @@
-# lamassu-server711
+# lamassu-install711
